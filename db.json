@@ -2,6 +2,5 @@
   "livraison": [
   ],
   "user": [
-    {"email": "mm@gmail.com", "password": "123", "name": "manu", "adress": "12 rue de la passion", "isLivreur": true, "livraison_uid": -1}
   ]
 }

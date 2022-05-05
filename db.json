@@ -5,9 +5,9 @@
         "description" : "Television",
         "adresseDepart" : "UQTR",
         "adresseDestination" : "320 Rang Saint-Pierre",
-        "hauteur" : 13; 
-        "largeur" : 13; 
-        "longueur" : 13; 
+        "hauteur" : 13,
+        "largeur" : 13, 
+        "longueur" : 13, 
         "poids" : 12, 
         "offre" : 123, 
         "instructionsSpeciales" : "Laisser devant la porte", 
@@ -21,9 +21,9 @@
         "description" : "Micro-onde",
         "adresseDepart" : "320 Rang Saint-Pierre",
         "adresseDestination" : "4025 Rue Louis-Pinard",
-        "hauteur" : 2; 
-        "largeur" : 3; 
-        "longueur" : 4; 
+        "hauteur" : 2, 
+        "largeur" : 3,
+        "longueur" : 4,
         "poids" : 10, 
         "offre" : 24, 
         "instructionsSpeciales" : "Laisser devant la porte", 

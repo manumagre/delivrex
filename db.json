@@ -1,7 +1,40 @@
 {
   "livraison": [
+    {"uid": 1,
+        "userCreatedEmail": "mm@gmail.com",
+        "description" : "Television",
+        "adresseDepart" : "UQTR",
+        "adresseDestination" : "320 Rang Saint-Pierre",
+        "hauteur" : 13; 
+        "largeur" : 13; 
+        "longueur" : 13; 
+        "poids" : 12, 
+        "offre" : 123, 
+        "instructionsSpeciales" : "Laisser devant la porte", 
+        "acceptedBy" : null, 
+        "token" : "jstc-1234", 
+        "deleted" : 0, 
+        "needUpdate" : false,
+        "isDeleted" : false},
+    {"uid": 2,
+        "userCreatedEmail": "mm@gmail.com",
+        "description" : "Micro-onde",
+        "adresseDepart" : "320 Rang Saint-Pierre",
+        "adresseDestination" : "4025 Rue Louis-Pinard",
+        "hauteur" : 2; 
+        "largeur" : 3; 
+        "longueur" : 4; 
+        "poids" : 10, 
+        "offre" : 24, 
+        "instructionsSpeciales" : "Laisser devant la porte", 
+        "acceptedBy" : "ta@gmail.com", 
+        "token" : "jstc-1234", 
+        "deleted" : 0, 
+        "needUpdate" : false,
+        "isDeleted" : false}
   ],
   "user": [
-    {"email": "mm@gmail.com", "password": "123", "name": "manu", "adress": "12 rue de la passion", "isLivreur": true, "livraison_uid": -1, "needUpdate": false, "deleted": false}
+    {"email": "mm@gmail.com", "password": "123", "name": "manu", "adress": "12 rue de la passion", "isLivreur": true, "livraison_uid": -1, "needUpdate": false, "deleted": false},
+    {"email": "ta@gmail.com", "password": "1234", "name": "toma", "adress": "320 Rang Saint-Pierre", "isLivreur": true, "livraison_uid": 2, "needUpdate": false, "deleted": false}
   ]
 }

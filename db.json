@@ -34,7 +34,7 @@
         "isDeleted" : false}
   ],
   "user": [
-    {"email": "mm@gmail.com", "password": "123", "name": "manu", "adress": "12 rue de la passion", "isLivreur": true, "livraison_uid": -1, "needUpdate": false, "deleted": false},
-    {"email": "ta@gmail.com", "password": "1234", "name": "toma", "adress": "320 Rang Saint-Pierre", "isLivreur": true, "livraison_uid": 2, "needUpdate": false, "deleted": false}
+    {"email": "mm@gmail.com", "password": "123", "name": "manu", "adress": "12 rue de la passion", "isLivreur": true, "livraisonUid": -1, "needUpdate": false, "deleted": false},
+    {"email": "ta@gmail.com", "password": "1234", "name": "toma", "adress": "320 Rang Saint-Pierre", "isLivreur": true, "livraisonUid": 2, "needUpdate": false, "deleted": false}
   ]
 }
